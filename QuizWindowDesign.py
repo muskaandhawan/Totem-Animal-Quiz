@@ -17,7 +17,7 @@ class window(tk.Frame):
         self.widgets1()
 
     def widgets1(self):
-        self.img = Image.open("F:\Python Studying Material\Python Quiz Project\wood.jpg")
+        self.img = Image.open("wood.jpg")
         self.photo = ImageTk.PhotoImage(self.img)
         self.lab = tk.Label(self.x, image = self.photo)
         self.lab.place(x=0,y=0)
