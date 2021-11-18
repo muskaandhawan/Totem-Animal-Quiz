@@ -13,10 +13,10 @@ woods = ['Green', 'Woods', 'Romcom', 'Vintage Vibes', 'Eating lots of junk food'
 earth = ['Crimson', 'Fireplace', 'Action Films', 'Money Money Money Money!!!!', 'Sleeping all day']
 sky   = ['Lavender', 'Sky', 'Horror Movies', 'Crackhead Energy', 'A nice long walk']
 
-pics = ['F:\Python Studying Material\Python Quiz Project\dolphin.jpg', 'F:\Python Studying Material\Python Quiz Project\star.jpg', 
-        'F:\Python Studying Material\Python Quiz Project\dragon.jpg', 'F:\Python Studying Material\Python Quiz Project\woodchuck.jpg',
-        'F:\Python Studying Material\Python Quiz Project\puma.jpg', 'F:\Python Studying Material\Python Quiz Project\wox.jpg',
-        'F:\Python Studying Material\Python Quiz Project\kingfisher.jpg']
+pics = ['dolphin.jpg', 'star.jpg', 
+        'dragon.jpg', 'woodchuck.jpg',
+        'puma.jpg', 'wox.jpg',
+        'kingfisher.jpg']
 
 names = ['Dolphin', 'Starfish', 'Dragon', 'Woodchuck', 'Black Puma', 'Fox', 'Kingfisher']
 
@@ -30,7 +30,7 @@ description = ['You are curious and social being. You show enthusiasm in learnin
 
 bg_colors = ['gold', 'crimson', 'turquoise', 'purple', 'coral']
 
-clouds = 'F:\Python Studying Material\Python Quiz Project\cloudss.jpg'
+clouds = 'cloudss.jpg'
 
 '''for i in range(0,5):
     ques = questions[i]
